@@ -38,7 +38,7 @@ const StyledModal = styled.div`
 			.travellClass {
 				display: flex;
 				flex-direction: column;
-				margin: 30px 0 75px 0;
+				margin: 30px 0 50px 0;
 				label {
 					color: rgb(102, 102, 102);
 					font-size: 16px;
@@ -73,7 +73,7 @@ const StyledModal = styled.div`
 					display: flex;
 					justify-content: space-between;
 					align-items: center;
-					margin-bottom: 45px;
+					margin-bottom: 35px;
 					&:last-of-type {
 						margin-bottom: 0;
 					}
