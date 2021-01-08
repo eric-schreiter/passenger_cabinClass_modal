@@ -142,7 +142,7 @@ const StyledModal = styled.div`
 				margin: 0.75rem;
 				text-align: center;
 				font-size: 20px;
-				padding: 1rem 0;
+				padding: 0.75rem 0;
 				border-radius: 0.3rem;
 				box-shadow: 0 0.2rem 0.3rem 0 rgba(0, 0, 0, 0.26);
 				border: none;
